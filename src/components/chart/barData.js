@@ -1,26 +1,29 @@
 export const barData = {
-  labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+  labels: ['2013', '2014', '2015', '2016', '2017', '2018'],
   datasets: [
     {
-      label: '% of Votes',
+      label: '% of responses',
       data: [12, 19, 3, 5, 2, 3],
       backgroundColor: [
-        'rgba(255, 134,159,0.4)',
-        'rgba(98,  182, 239,0.4)',
-        'rgba(255, 218, 128,0.4)',
-        'rgba(113, 205, 205,0.4)',
-        'rgba(170, 128, 252,0.4)',
-        'rgba(255, 177, 101,0.4)',
+        'rgb(0,113,175)',
+        'rgb(0,113,175)',
+        'rgb(0,113,175)',
+        'rgb(0,113,175)',
+        'rgb(0,113,175)',
+        'rgb(0,113,175)',
       ],
-      borderWidth: 2,
-      borderColor: [
-        'rgba(255, 134, 159, 1)',
-        'rgba(98,  182, 239, 1)',
-        'rgba(255, 218, 128, 1)',
-        'rgba(113, 205, 205, 1)',
-        'rgba(170, 128, 252, 1)',
-        'rgba(255, 177, 101, 1)',
-      ],
+      borderWidth: 1,
+      // borderColor: [
+      //   'rgba(255, 134, 159, 1)',
+      //   'rgba(98,  182, 239, 1)',
+      //   'rgba(255, 218, 128, 1)',
+      //   'rgba(113, 205, 205, 1)',
+      //   'rgba(170, 128, 252, 1)',
+      //   'rgba(255, 177, 101, 1)',
+      // ],
+      // barPercentage:'0.3',
+      barThickness: 50,
     },
   ],
+
 };
