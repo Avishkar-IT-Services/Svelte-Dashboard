@@ -5,7 +5,7 @@
 Svelte is all about performance and optimized code framework. Making applications by using Svelte is worth the effort. you may consider in your next project
 
 ### Chart
-Charts are very useful for analysis the of complex data, whether it's selling, or profit over a period of time,   if you are a business owner then you must use the chart-based analytics tool in order to make the right decision.
+Charts are very useful for the analysis of complex data in a visualized manner.
 
 ![image](https://github.com/Avishkar-IT-Services/Svelte-Dashboard/assets/137886016/6096b3d7-2de3-40d1-b2ea-93b359fd44f6)
 <br>
