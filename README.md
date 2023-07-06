@@ -1,4 +1,4 @@
-# Svelte-Dashboard 🚀
+# Svelte-Dashboard 
 
 ![image](https://github.com/Avishkar-IT-Services/Svelte-Dashboard/assets/137886016/fd16739a-52cf-48b2-893f-ac18bdedbb57)
 
